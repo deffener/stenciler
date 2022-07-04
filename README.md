@@ -1,5 +1,6 @@
 # stenciler
 a holder for stencils to use for solder paste application
+![image](https://raw.githubusercontent.com/deffener/stenciler/main/621b01f4593293e3b3ba2ef0fc0aaa4d.jpg)
 
 # usage
 Using two bases cut from 3mm MDF (to mitigate non vertical kerf) and 1.5~1.6mm acrylic as a spacer. Pins are cut from 6mm steel axle, but probably can be found already cut to size.
